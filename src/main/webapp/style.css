@@ -1,0 +1,21 @@
+.leftside, .rightside{
+    height: 100vh;
+    width: 100%;
+}
+.leftside{
+
+}
+.rightside{
+
+}
+body{
+    background-color: white;
+}
+.space{
+    padding-left: 20px;
+}
+.count{
+    width: 100px;
+    padding-left: 20px;
+}
+
